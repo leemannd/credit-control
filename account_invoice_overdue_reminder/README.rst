@@ -25,13 +25,7 @@ Overdue Invoice Reminder
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
 
-This Odoo module is designed to send overdue invoice reminders to customers. It handles reminders by e-mail, letter and phone.
-
-This module is an alternative to the OCA module *account_credit_control*. Why another module for invoice reminders ? Because the module *account_credit_control* is quite complex (we experienced that some users find it too complex and eventually stop using it) and its interface is designed to send massive volume of reminders.
-
-This module has been designed from the start with the following priorities:
-
-* **keep control**: you must keep tight control on the overdue invoice reminders that you send. Overdue invoice reminders are part of the communication with your customers, and this is very important to keep a good relation with your customers.
+keep a good relation with your customers.
 * **usability**: the module is easy to configure and easy to use.
 * **no accounting skills needed**: the module can be used by users without accounting skills. It can even be used by salesman!
 * **multi-currency**: if you invoice your customer in another currency that your company currency, the invoice reminders only mention the currency of the invoices. And if you invoice a customer with different currencies, the reminder is clear and easy-to-understand by your customer, with a total residual per currency.
